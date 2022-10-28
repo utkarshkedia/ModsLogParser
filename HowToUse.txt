@@ -1,0 +1,5 @@
+1. Save the log file in the same directory as the python executable.
+2. Then execute the command "python main.py <name_of_logfile> <Parameter1_to_log>,<parameter2_to_log>,<parameter3_to_log>,…"
+
+It can take infinite number of parameters as arguments(separated by commas) and creates 1 sheet for each parameter.
+It will finally generate a .xlsx file.
